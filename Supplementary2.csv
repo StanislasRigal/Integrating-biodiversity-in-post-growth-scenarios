@@ -1,9 +1,8 @@
-Paper title/ID	NFF	Citation		Specific values of nature 	"https://doi.org/10.1002/pan3.70186
-https://doi.org/10.1038/s41586-023-06406-9"
-05 Varho & Tapio	NS	"In the first scenario, the economy, as measured by GDP, starts to decline and road transport volumes decline sharply as well. Nevertheless, the “Developing degrowth” scenario is not pessimistic. The economy becomes increasingly service-intensive and the share of non-material consumption rises sharply. This means an immaterialisation of the economy, which can lead to less freight. A strict climate policy directs the development of the society, and transport CO2 emissions decline to zero by 2050. Domestic airplane use ends completely. The quality of public transportation improves sharply while at the same time the fares become much cheaper. Goods are bought from local stores. There are heavy investments into bicycle networks and sidewalks. The use and ownership of passenger cars are heavily taxed, and the number of passenger cars plummets. However, at the same time, car technologies develop rapidly, and new cars sold in 2030 are based on hybrid, electric, or hydrogen technologies. The share of biofuels of transport fuels is high, partly because the overall fuel demand is low.
+ID	NFF	Citation
+ID05	NS	"In the first scenario, the economy, as measured by GDP, starts to decline and road transport volumes decline sharply as well. Nevertheless, the “Developing degrowth” scenario is not pessimistic. The economy becomes increasingly service-intensive and the share of non-material consumption rises sharply. This means an immaterialisation of the economy, which can lead to less freight. A strict climate policy directs the development of the society, and transport CO2 emissions decline to zero by 2050. Domestic airplane use ends completely. The quality of public transportation improves sharply while at the same time the fares become much cheaper. Goods are bought from local stores. There are heavy investments into bicycle networks and sidewalks. The use and ownership of passenger cars are heavily taxed, and the number of passenger cars plummets. However, at the same time, car technologies develop rapidly, and new cars sold in 2030 are based on hybrid, electric, or hydrogen technologies. The share of biofuels of transport fuels is high, partly because the overall fuel demand is low.
 
-It is also notable that no experts envisioned high transport volume growth and a technology leap that would solve the emission problems. Even in the long run, changes in infrastructures and behaviour that would reduce transport needs and change the modal split were seen to be of paramount importance. Sometimes experts are overly pessimistic about the environmental values of ordinary people, and assume that failure to choose environmentally benign options results only from lacking environmental consciousness, disregarding other factors influencing choice e.g. [82]. In this study, however, experts emphasised the importance of routines and practical difficulties involved in changing transport behaviour."		Instrumental values	regard nature as an asset for achieving human goals
-11 Briens	NS-NC-NN	"Un simple ralentissement de sa croissance se traduit rapidement par une hausse des taux de chômage (Figure 2), de la pauvreté, un accroissement de la dette publique, et une intensification des tensions sociales à court terme, ainsi que par des dommages  environnementaux potentiels à moyen ou long terme, du fait de la réduction des dépenses de maintenance industrielle et de protection environnementale.
+It is also notable that no experts envisioned high transport volume growth and a technology leap that would solve the emission problems. Even in the long run, changes in infrastructures and behaviour that would reduce transport needs and change the modal split were seen to be of paramount importance. Sometimes experts are overly pessimistic about the environmental values of ordinary people, and assume that failure to choose environmentally benign options results only from lacking environmental consciousness, disregarding other factors influencing choice e.g. [82]. In this study, however, experts emphasised the importance of routines and practical difficulties involved in changing transport behaviour."
+ID11	NS-NC-NN	"Un simple ralentissement de sa croissance se traduit rapidement par une hausse des taux de chômage (Figure 2), de la pauvreté, un accroissement de la dette publique, et une intensification des tensions sociales à court terme, ainsi que par des dommages  environnementaux potentiels à moyen ou long terme, du fait de la réduction des dépenses de maintenance industrielle et de protection environnementale.
 
 Moratoires sélectifs sur certaines technologies, sur la base d’une délibération autour des risques, des impacts et des bénéfices potentiels. Moratoires et limites sur les grands projets d’infrastructures. Transition du modèle industriel d’agriculture intensive vers l’agroécologie, la permaculture, et l’agriculture paysanne biologique à petite échelle.
 
@@ -58,8 +57,8 @@ Néanmoins, cette perspective repose sur l’hypothèse que ces « solutions » 
 Elargir le spectre des indicateurs environnementaux, en y intégrant par exemple les flux de matériaux, de matières premières, ou encore en complétant la liste des polluants, lorsque cela est possible et pertinent.
 
 D’une image possible du futur, nous pouvons lui demander de préciser les contours, mais pas les textures, mais pas les couleurs. Ainsi, aussi essentielles que soient ces dimensions, nous n’avons rien dit de la beauté des paysages, de l’accès au silence ou à un ciel étoilé, du sentiment de confiance (en soi, en son entourage, et en l’avenir) ou de celui de faire société, de celui d’appartenance à une communauté, de la richesse inestimable de la diversité, ni de l’ardeur et du tumulte de la vie, et surtout, de la question suprême du sens que nous
-entendons lui confier."		Intrinsic values	regard nature as valuable in and of itself, independent of human judgement
-13 Capellan-Perez	NS	"[renewable energy sources'] associated environmental impacts, which all together significantly reduce their sustainable potential.
+entendons lui confier."
+ID13	NS	"[renewable energy sources'] associated environmental impacts, which all together significantly reduce their sustainable potential.
 
 ‘‘Sustainable development + no-GDP- growth focus’’: similar to scenario ‘‘Regional  Sustainable Development’’ of the GEA storylines where globalization tends to be deconstructed, drastic lifestyle changes against senseless consumerism occur and renewable and alternative technologies are strongly promoted. The prompt application of strong proactive energy transition policies would allow for a slight increase of the world average GDPpc from current levels, avoiding both energy shortages in any sector, as well as CO2 concentrations higher than 450 ppm for the analyzed period.
 
@@ -69,8 +68,8 @@ scenario D assumes a context of ‘‘Regional Sustainable Development’’ wit
 
 The de-growth movement calls for a decrease in material and energy consumption in countries that exceed their ‘allowable ecological footprint’ and acknowledges the allowance for Southern countries or societies, where ecological impacts are low relative to their biocapacity, to increase their material consumption and thus their ecological footprint.
 
-Also, the present exercise has analyzed the socioeconomic system as if the only critical factors were potential energy scarcity and climate alteration. Since, in fact, an array of interconnected issues are not considered16 (e.g., nitrogen and phosphorus cycle disturbance, biodiversity loss, etc.) that may have the potential to provoke a drastic environmental change (Steffen et al. 2015), the assessed feasibility of scenario D could then be too optimistic."		Relational values	regard the significance of non-substitutable, meaningful connections between humans and nature, as well as among humans, mediated by nature
-18 Larch	NS	"In particular, we assume degrowth to restrict the quantity of available factor inputs (e.g. work time, natural resources and land).
+Also, the present exercise has analyzed the socioeconomic system as if the only critical factors were potential energy scarcity and climate alteration. Since, in fact, an array of interconnected issues are not considered16 (e.g., nitrogen and phosphorus cycle disturbance, biodiversity loss, etc.) that may have the potential to provoke a drastic environmental change (Steffen et al. 2015), the assessed feasibility of scenario D could then be too optimistic."
+ID18	NS	"In particular, we assume degrowth to restrict the quantity of available factor inputs (e.g. work time, natural resources and land).
 
 Input factors are skilled and unskilled labour, capital, land, natural resources.
 
@@ -80,8 +79,8 @@ To achieve a higher level of self-suﬃciency, additional measures besides the m
 
 This implies that beneﬁcial eﬀects of degrowth, such as reduced emissions, more leisure, reduced land use or lower status competition are not taken into account.
 
-We ﬁnd that reducing all national production factors rather than only the energy input reduces leakage strongly by eliminating incentives of uncommitted countries for compositional shifts towards production of dirtier products."			
-24 Monserand 2019a	NN-NS	"Around the globe, ecological degradation keeps worsening, year after year.
+We ﬁnd that reducing all national production factors rather than only the energy input reduces leakage strongly by eliminating incentives of uncommitted countries for compositional shifts towards production of dirtier products."
+ID24	NN-NS	"Around the globe, ecological degradation keeps worsening, year after year.
 
 Several planetary boundaries have been overshooted, such as biodiversity loss and nitrogen and phosphorus cycles, and some like land-system change are on their way to be crossed,
 
@@ -117,8 +116,49 @@ The criteria we choose for the comparison of the outcomes of the 6 scenarii are 
 
 An increase in contribution rates allows at the same time for (i) a positive ecological outcome arising from the reduction in consumption combined with a tamed rebound effect.
 
-To wind up, this article suggests and explores a path toward strong sustainability, where one ecological problem is not replaced with another one since the rebound effect is tamed"			
-36 Nieto et al 2020	NS	"Interaction between the economy and the environment, as understood by ecological eco­nomics, points out the subordination of the former to the limits imposed by the latter.
+To wind up, this article suggests and explores a path toward strong sustainability, where one ecological problem is not replaced with another one since the rebound effect is tamed"
+ID29	NN-NS-NC	"They are the reason for people not only accepting a reduction in consumption but also being inspired to move beyond a system relying on everlasting economic growth at an expense to humans and the environment.
+
+Due to the assumed dietary shift, large agricultural areas can be carefully restored to natural ecosystems or managed more sustainably, in the process serving as CO2 sinks of roughly 4 Gt CO2 per year.
+
+Even the most accepted geoengineering options, such as using Bioenergy with Carbon Capture and Storage (BECCS) and large-scale monoculture afforestation, would lead to soil degradation, biodiversity loss and ecosystem destruction and would fuel conflicts over land, including human rights violation.
+
+They rely on renewable electricity, in sum leading to a required level of supply manifoldly above current levels, which may be unrealistic and brings its own set of social and environmental problems.
+
+Most of them are also not sustainable when employed on a large scale taking into account their negative impacts on biodiversity loss, soil degradation, land use and overuse of scarce water resources. In addition, the material footprint of those options has to be taken into account as exploiting the necessary resources will massively affect the livelihoods of people and communities.
+
+(BECCS, bioenergy with carbon capture and storage). BECCS is not only devastating to the environment and fuels land conflicts; it is also insecure and risky.
+
+It excludes geo-engineering technologies but includes limited amounts of carbon sequestration by restoring natural ecosystems and soil carbon sequestration.
+
+This exclusion also means that we advocate a sensitive and responsible approach in  building up renewable energy capacity as exploiting the resources needed for those technologies affects both the environment and communities.
+
+In addition, renewable energies have to be regarded as a scarce good that has to be developed and used in line with nature protection criteria and respect for the rights of the people affected by those technologies. This is especially true for biofuels, which have proven to bring with them devastating environmental impacts such as large-scale deforestation, biodiversity loss, soil degradation, depletion of scarce water resources, a violation of human rights including the right to food, and land-grabbing. In contrast, societal changes to reduce motorized private transport offer a way to reduce GHG emissions that is much more sustainable for climate, biodiversity and human beings while at the same time improving quality of life for billions of people in many other aspects.
+
+However, new technologies that could substitute fossil fuels with their high energy density without devastating impacts to environment and human beings are nowhere in sight. Offset mechanisms and biofuels must be regarded as false solutions with impacts on biodiversity, conflicts about land and food security as well as the rights of the communities affected by offsetting projects or large-scale biofuel production sites.
+
+Global peasant and agro-ecology movements claim that peasant agro-ecology – a food system based on food sovereignty, small-scale farming and agro-ecology – could not only drastically reduce emissions from agriculture but in fact help build carbon storage in soils and agricultural ecosystems.
+
+We proceed from the assumption that forcing intensification in factory farming is problematic for a number of reasons, including animal welfare, ecological and biodiversity impacts, working and health conditions.
+
+When less food is wasted and less meat is consumed in the Global North, less land will be needed to grow food and feed for livestock, or food can be grown in more sustainable, extensive agricultural systems. The result will be a larger share of sustainable agriculture and large shares of agricultural cropland on which natural, biodiverse forest and grassland ecosystems can regrow and be carefully restored.
+
+However, calculating exactly how much CO2 could be stored through returning land to the state of natural ecosystems rather than agro-industrial exploitation is far more complex than could be accomplished with the Global Calculator (or any other global models). It would require identifying the precise hectares and, more importantly, the locations of agricultural land that would be «freed up« from intensive agricultural use and comparing the results with an ecosystem biome map to identify which type of ecosystem a given area could be restored back to. It would also simultaneously involve working with local communities and Indigenous peoples as well as taking into account biome changes due to climatic changes. All of these factors are important if the aim is an ecological restoration of natural ecosystems rather than afforestation in areas that are not traditionally forest areas.
+
+The Global Calculator, however, does not feature this level of detail and complexity and simply assumes a switch back to natural grasslands and forests, regardless of biome conditions. For the STS, we decided to keep the level of CO2 sequestration deliberately at the lower end of what is potentially possible. We assumed a 20/80 split between natural grasslands – which have lower CO2 sequestration rates – and forest recovery.
+
+there are (legitimate) concerns around the stability and permanence of CO2 stored in natural ecosystems. We can confidently assume that permanence and stability are higher in natural, biodiverse ecosystems than in monoculture «carbon farming« tree plantations, but the sequestration potential of the world‘s ecosystems may also change due to climatic changes.
+
+For biomass, we assume a moderate increase in energy crop yield with a shift from liquid to solid biomass use.
+
+We assume a shift away from industrial agriculture with its negative consequences (as soil degradation, overuse of water, biodiversity loss, nitrate contamination of ground water) toward sustainable and organic farming practices.
+
+Lower meat production also reduces pressure on ecosystems and biodiversity (SDG 15). Lower production and consumption in general allow natural resources to be preserved and reduce the use and release of chemicals and waste generation, contributing to more responsible consumption and production.
+
+Further loss and degradation of primary forests, peatlands and grasslands through conversion into croplands needs to be halted immediately. Protecting existing ecosystems must be the first priority in addressing the climate and biodiversity crises because of the carbon they store, which must not be released into the atmosphere. Biodiverse natural ecosystems are also integral to climate change adaptation. Furthermore, there is potential in carefully and ecologically restoring degraded ecosystems. Allowing secondary forests to fully recover to primary forest is the best mitigation strategy. This recovery must include longer rotation times and reduced harvest rates. Importantly, the sequestration potential of ecosystem restoration can be achieved without any need for additional land. Expanding the area of natural forest is a third key strategy. Restoring forest cover is particularly important for buffering remaining primary forests and helps in expanding the area of intact primary forests. From climate and biodiversity perspectives, natural or assisted regeneration of native forests is the most effective intervention.
+
+Also, not all of what is packaged as a «Nature Based Solution» is actually good for the climate or for biodiversity. Large-scale monocultural afforestation, or Bioenergy with Carbon Capture and Storage (BECCS), for instance, do not actually work with nature or natural ecosystems, but tend instead to further their destruction."
+ID36	NS	"Interaction between the economy and the environment, as understood by ecological eco­nomics, points out the subordination of the former to the limits imposed by the latter.
 
 Environmental constraints generally appear as natural capital depletion.
 
@@ -136,8 +176,8 @@ Standard production functions, even if considering energy (or, more generally, n
 
 Within the last few decades, the need to include environmental as­pects into macro-economic modelling has drawn increasing academic attention.
 
-Conventional production functions could be failing to capture these absolute restraints by compensating for natural capital depletion with capital accumulation, labour growth, or even the so-called total factors productivity. There­fore, if models only include the environment as theoretical categories –such as ‘natural capital’ or ‘ecosystem services’- which can be eroded but restored, they could be disregarding irreversibility in natural sys­tems and thus obtaining misleading results."			
-40 Jackson and Victor	NN-NS	"this position [debunk the limits to growth] has become increasingly untenable, particularly in the face of accelerating climate change (Lenton et al., 2019; IPCC, 2018) and  unprecedented biodiversity loss (IPBES, 2019).
+Conventional production functions could be failing to capture these absolute restraints by compensating for natural capital depletion with capital accumulation, labour growth, or even the so-called total factors productivity. There­fore, if models only include the environment as theoretical categories –such as ‘natural capital’ or ‘ecosystem services’- which can be eroded but restored, they could be disregarding irreversibility in natural sys­tems and thus obtaining misleading results."
+ID40	NN-NS	"this position [debunk the limits to growth] has become increasingly untenable, particularly in the face of accelerating climate change (Lenton et al., 2019; IPCC, 2018) and  unprecedented biodiversity loss (IPBES, 2019).
 
 Ecological economists have used such models to determine whether important social and environmental objectives can be achieved in a modern economy,
 
@@ -168,8 +208,8 @@ the co-benefits arising from decarbonisation, and the non‑carbon benefits from
 The Sustainable Prosperity Scenario includes all of the innovations included in the Carbon Reduction Scenario and, in addition, it introduces further measures aimed at reducing a wider set of environmental impacts.
 
 The high level of carbon reduction combined with considerable green investment to address other environmental problems facilitates a decline in the EBI (Fig. 6) for the Sustainable Prosperity Scenario of 30% by the end of the period, contributing significantly to the improved SPI score (Fig. 5) for this scenario.
-"			
-44 Dula et al 2019	NS	"Over the last few years, debates on ecological and social limits to economic growth, as well as new ways to deal with resource scarcity without compromising human well-being, have re-emerged, with degrowth being central to many of them.
+"
+ID44	NS	"Over the last few years, debates on ecological and social limits to economic growth, as well as new ways to deal with resource scarcity without compromising human well-being, have re-emerged, with degrowth being central to many of them.
 
 This is also consistent with D’Alisa et al.’s (2015) deﬁnition of degrowth as a movement which is not as focused on environmental sustainability as other sustainability approaches.
 
@@ -177,8 +217,8 @@ Environmental conditions should also be improved because new types of clean indu
 
 In addition, giving more people a source of income could increase consumption and actually increase environmental pressures, such as carbon emissions.
 
-The central feature of the agriculture subsector is the two stocks representing a land development chain. Land moves from arable to urban and industrial land. The rate at which land is transferred from arable to urban and industrial  epends on the need for urban and industrial land, as well as on transfer time."			
-47 Luukkanen	NS	"Raworth [23] refers to Rockström et al. [26] when she includes climate change, fresh-water use, nitrogen and phosphorous cycles, ocean acidification, chemical pollution, ozone depletion, biodiversity loss, and land-use change in the description of the environmental ceiling. These environmental issues can be used to define natural thresholds of environmental sustainability.
+The central feature of the agriculture subsector is the two stocks representing a land development chain. Land moves from arable to urban and industrial land. The rate at which land is transferred from arable to urban and industrial  epends on the need for urban and industrial land, as well as on transfer time."
+ID47	NS	"Raworth [23] refers to Rockström et al. [26] when she includes climate change, fresh-water use, nitrogen and phosphorous cycles, ocean acidification, chemical pollution, ozone depletion, biodiversity loss, and land-use change in the description of the environmental ceiling. These environmental issues can be used to define natural thresholds of environmental sustainability.
 
 Sustainability window defines the minimum economic development level to fulfil the criteria of social sustainability and the maximum economic development not to exceed the environmental sustainability limit.
 
@@ -199,8 +239,8 @@ The development in Thailand has fulfilled the weak environmental sustainability 
 
 The strong environmental sustainability criteria are fulfilled in Thailand in “consumption of global hectares” (E4), and slightly in “biodiversity, forest area” (E1) and “energy intensity” (E5). For all the other indicators, the criteria for strong environmental sustainability are not fulfilled.
 
-It cannot be determined what is the quantitative level of, for instance, sustainable biodiversity."			
-55 Bordenave 2022	NN-NS	"In parallel with climatic considerations, the anthropogenic deterioration of natural environments reaches a critical state.
+It cannot be determined what is the quantitative level of, for instance, sustainable biodiversity."
+ID55	NN-NS	"In parallel with climatic considerations, the anthropogenic deterioration of natural environments reaches a critical state.
 
 The Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES) regularly produces assessments of knowledge on biodiversity and ecosystem services and their interlinkages at the global level. According to their report (Díaz et al., 2019), 75% of the Earth’s environment is “severely altered” by human activities. Nearly one million animal and plant species are now threatened with extinction. These considerations underline the need to take biodiversity into account in models, since our economic system is vitally embedded into ecosystems.
 
@@ -220,8 +260,8 @@ In presence of the smooth carbon policy, namely tax(2100) = 50$/tC, and the firs
 
 Thanks to the agroforestry module, it has been possible to show that a global reforestation policy remains a non-negligible solution when it comes to climate change alleviation. Coupled with a carbon tax, it enables to reduce significantly anthropogenic emissions. Nevertheless, I have shown that a carbon tax might imply adverse effects on biodiversity as it impacts negatively forest stocks.
 
-Apart from forest stocks, no other biodiversity indicators are included. A bird population dynamic, for instance, could be an interesting way to study how changes in land use are affecting wildlife."			
-58 Bordisky	NN-NS	"Proponents of degrowth propose an “equitable downscaling of production and consumption that increases human well-being and enhances ecological conditions at the local and global level.
+Apart from forest stocks, no other biodiversity indicators are included. A bird population dynamic, for instance, could be an interesting way to study how changes in land use are affecting wildlife."
+ID58	NN-NS	"Proponents of degrowth propose an “equitable downscaling of production and consumption that increases human well-being and enhances ecological conditions at the local and global level.
 
 Some practitioners may also target a reduced GDP as a means, given the strong association between GDP and certain ecological impacts.
 
@@ -241,8 +281,8 @@ Negative growth or redistribution, if conceived of only as reduction and redistr
 
 When a price on emissions is activated, this incentivizes the preservation of currently existing forests, as well as the planting of new forests63. This afforestation is based on natural vegetation growth curves and carbon densities of regionally native species, as opposed to plantation forest curves.
 
-By internalizing the external costs, the tax leads to a more efficient allocation of resources within the food system: area expansion into natural vegetation is substituted by intensification of existing areas."			
-62 Chaparia 2022	NN-NS	"The ecological footprint measures our dependence and impact on the environment and the carrying capacity of nature [25]. The ecological footprint in Iran was measured at 3.2 global hectares per person in 2017, which exceeded the biocapacity of 0.7 global hectares per person. In Iran, the carbon footprint is 2.5 global hectares per person of the total ecological footprint (3.2), and is around 70% of the total ecological footprint of consumption [26].
+By internalizing the external costs, the tax leads to a more efficient allocation of resources within the food system: area expansion into natural vegetation is substituted by intensification of existing areas."
+ID62	NN-NS	"The ecological footprint measures our dependence and impact on the environment and the carrying capacity of nature [25]. The ecological footprint in Iran was measured at 3.2 global hectares per person in 2017, which exceeded the biocapacity of 0.7 global hectares per person. In Iran, the carbon footprint is 2.5 global hectares per person of the total ecological footprint (3.2), and is around 70% of the total ecological footprint of consumption [26].
 
 To transition toward sustainability, it is essential to consider the interactions of different systems of economy, society, and environment [30]. Conceptualizing the economy, society, and environment as nested systems is crucial for understanding the economy and its dependence on the wider world.
 
@@ -259,13 +299,13 @@ The Steady State Economy scenario has a lower ecological footprint which it reac
 The scenario of Steady State Economy assesses the role of managing economic growth on transitioning toward
 an economy based on human and ecological well-being. This scenario contributes to the discourse on a steady state
 economy in Iran. Steady State Economy Scenario is mainly based on managing GDP growth, while considering some
-socio-economic and environmental policies to improve human and ecological well-being."			
-69 Mastrucci and van Ruijven	NS	"Buildings account for almost 40% of energy and process-related CO2 emissions [1]. Transition to low energy and material demand (LEMD) in the building sector is key to reach climate change mitigation and sustainability targets but will require unprecedent technological and social transformations.
+socio-economic and environmental policies to improve human and ecological well-being."
+ID69	NS	"Buildings account for almost 40% of energy and process-related CO2 emissions [1]. Transition to low energy and material demand (LEMD) in the building sector is key to reach climate change mitigation and sustainability targets but will require unprecedent technological and social transformations.
 
 In the RC scenario, the material demand is the lowest because of smaller housing size and progressive substitution of current construction materials with wood and nature-based materials.
 
-Material substitution and switch to wooden construction in the RC scenario drives a decrease in cement and steel demands, and increase in wood demand."			
-75 Shaaban et al. 2023	NN-NS-NC	"The multi-functionality of its activities considering the provision of environmental and social public goods (Gómez-Limón et al., 2009) including the supply of ecosystem services (ESS).
+Material substitution and switch to wooden construction in the RC scenario drives a decrease in cement and steel demands, and increase in wood demand."
+ID75	NN-NS-NC	"The multi-functionality of its activities considering the provision of environmental and social public goods (Gómez-Limón et al., 2009) including the supply of ecosystem services (ESS).
 
 This agenda emphasizes the interplay between agricultural activity and dietary habits, in order to support the transition to a fair, healthy and environmentally-friendly food system.
 
@@ -317,8 +357,8 @@ The ecological system will increase by 60 % in which the supply of yield will be
 
 We selected those who are technically experts in agricultural production from the theoretical as well as the practical aspects (such as farmers) in addition to others from social, environmental, economic and policy backgrounds so that they capture a holistic view about the agri-food value chain from production to consumption.
 
-Combining QS with quantitative modelling to provide insights on possible societal and ecological impacts and conditions in the future of the agri-food system offers several advantages."			
-82 Soergel	NN-NS	"There is also a need for investigating potential trade-offs between different goals (e.g. economic growth vs biodiversity conservation, Otero et al 2020), and for quantifying to which extent different pathways can ameliorate or resolve such trade-offs.
+Combining QS with quantitative modelling to provide insights on possible societal and ecological impacts and conditions in the future of the agri-food system offers several advantages."
+ID82	NN-NS	"There is also a need for investigating potential trade-offs between different goals (e.g. economic growth vs biodiversity conservation, Otero et al 2020), and for quantifying to which extent different pathways can ameliorate or resolve such trade-offs.
 
 changed diets reduce environmental footprint of agricultural system.
 
@@ -343,45 +383,13 @@ We show that holistic SDPs can accelerate progress towards the human development
 The ambitious demand-side shifts assumed in SDP-RC limit the overshoot over 1.5 ◦ C most effectively, reduce the long-term reliance on
 CDR, and lead to the best environmental outcomes in terms of biodiversity intactness across the SDPs.
 
-Life below water (SDG 14) is also not covered in our indicator set, but given the close links between cumulative CO2 emissions and ocean acidification (Hofmann et al 2019) it is also covered indirectly."			
-29 Kuhnhenn	NN-NS-NC	"They are the reason for people not only accepting a reduction in consumption but also being inspired to move beyond a system relying on everlasting economic growth at an expense to humans and the environment.
-
-Due to the assumed dietary shift, large agricultural areas can be carefully restored to natural ecosystems or managed more sustainably, in the process serving as CO2 sinks of roughly 4 Gt CO2 per year.
-
-Even the most accepted geoengineering options, such as using Bioenergy with Carbon Capture and Storage (BECCS) and large-scale monoculture afforestation, would lead to soil degradation, biodiversity loss and ecosystem destruction and would fuel conflicts over land, including human rights violation.
-
-They rely on renewable electricity, in sum leading to a required level of supply manifoldly above current levels, which may be unrealistic and brings its own set of social and environmental problems.
-
-Most of them are also not sustainable when employed on a large scale taking into account their negative impacts on biodiversity loss, soil degradation, land use and overuse of scarce water resources. In addition, the material footprint of those options has to be taken into account as exploiting the necessary resources will massively affect the livelihoods of people and communities.
-
-(BECCS, bioenergy with carbon capture and storage). BECCS is not only devastating to the environment and fuels land conflicts; it is also insecure and risky.
-
-It excludes geo-engineering technologies but includes limited amounts of carbon sequestration by restoring natural ecosystems and soil carbon sequestration.
-
-This exclusion also means that we advocate a sensitive and responsible approach in  building up renewable energy capacity as exploiting the resources needed for those technologies affects both the environment and communities.
-
-In addition, renewable energies have to be regarded as a scarce good that has to be developed and used in line with nature protection criteria and respect for the rights of the people affected by those technologies. This is especially true for biofuels, which have proven to bring with them devastating environmental impacts such as large-scale deforestation, biodiversity loss, soil degradation, depletion of scarce water resources, a violation of human rights including the right to food, and land-grabbing. In contrast, societal changes to reduce motorized private transport offer a way to reduce GHG emissions that is much more sustainable for climate, biodiversity and human beings while at the same time improving quality of life for billions of people in many other aspects.
-
-However, new technologies that could substitute fossil fuels with their high energy density without devastating impacts to environment and human beings are nowhere in sight. Offset mechanisms and biofuels must be regarded as false solutions with impacts on biodiversity, conflicts about land and food security as well as the rights of the communities affected by offsetting projects or large-scale biofuel production sites.
-
-Global peasant and agro-ecology movements claim that peasant agro-ecology – a food system based on food sovereignty, small-scale farming and agro-ecology – could not only drastically reduce emissions from agriculture but in fact help build carbon storage in soils and agricultural ecosystems.
-
-We proceed from the assumption that forcing intensification in factory farming is problematic for a number of reasons, including animal welfare, ecological and biodiversity impacts, working and health conditions.
-
-When less food is wasted and less meat is consumed in the Global North, less land will be needed to grow food and feed for livestock, or food can be grown in more sustainable, extensive agricultural systems. The result will be a larger share of sustainable agriculture and large shares of agricultural cropland on which natural, biodiverse forest and grassland ecosystems can regrow and be carefully restored.
-
-However, calculating exactly how much CO2 could be stored through returning land to the state of natural ecosystems rather than agro-industrial exploitation is far more complex than could be accomplished with the Global Calculator (or any other global models). It would require identifying the precise hectares and, more importantly, the locations of agricultural land that would be «freed up« from intensive agricultural use and comparing the results with an ecosystem biome map to identify which type of ecosystem a given area could be restored back to. It would also simultaneously involve working with local communities and Indigenous peoples as well as taking into account biome changes due to climatic changes. All of these factors are important if the aim is an ecological restoration of natural ecosystems rather than afforestation in areas that are not traditionally forest areas.
-
-The Global Calculator, however, does not feature this level of detail and complexity and simply assumes a switch back to natural grasslands and forests, regardless of biome conditions. For the STS, we decided to keep the level of CO2 sequestration deliberately at the lower end of what is potentially possible. We assumed a 20/80 split between natural grasslands – which have lower CO2 sequestration rates – and forest recovery.
-
-there are (legitimate) concerns around the stability and permanence of CO2 stored in natural ecosystems. We can confidently assume that permanence and stability are higher in natural, biodiverse ecosystems than in monoculture «carbon farming« tree plantations, but the sequestration potential of the world‘s ecosystems may also change due to climatic changes.
-
-For biomass, we assume a moderate increase in energy crop yield with a shift from liquid to solid biomass use.
-
-We assume a shift away from industrial agriculture with its negative consequences (as soil degradation, overuse of water, biodiversity loss, nitrate contamination of ground water) toward sustainable and organic farming practices.
-
-Lower meat production also reduces pressure on ecosystems and biodiversity (SDG 15). Lower production and consumption in general allow natural resources to be preserved and reduce the use and release of chemicals and waste generation, contributing to more responsible consumption and production.
-
-Further loss and degradation of primary forests, peatlands and grasslands through conversion into croplands needs to be halted immediately. Protecting existing ecosystems must be the first priority in addressing the climate and biodiversity crises because of the carbon they store, which must not be released into the atmosphere. Biodiverse natural ecosystems are also integral to climate change adaptation. Furthermore, there is potential in carefully and ecologically restoring degraded ecosystems. Allowing secondary forests to fully recover to primary forest is the best mitigation strategy. This recovery must include longer rotation times and reduced harvest rates. Importantly, the sequestration potential of ecosystem restoration can be achieved without any need for additional land. Expanding the area of natural forest is a third key strategy. Restoring forest cover is particularly important for buffering remaining primary forests and helps in expanding the area of intact primary forests. From climate and biodiversity perspectives, natural or assisted regeneration of native forests is the most effective intervention.
-
-Also, not all of what is packaged as a «Nature Based Solution» is actually good for the climate or for biodiversity. Large-scale monocultural afforestation, or Bioenergy with Carbon Capture and Storage (BECCS), for instance, do not actually work with nature or natural ecosystems, but tend instead to further their destruction."			
+Life below water (SDG 14) is also not covered in our indicator set, but given the close links between cumulative CO2 emissions and ocean acidification (Hofmann et al 2019) it is also covered indirectly."
+		
+		
+Specific values of nature 	Definition	References
+Instrumental values (NS)	regard nature as an asset for achieving human goals	"https://doi.org/10.1002/pan3.70186
+https://doi.org/10.1038/s41586-023-06406-9"
+Intrinsic values (NN)	regard nature as valuable in and of itself, independent of human judgement	"https://doi.org/10.1002/pan3.70186
+https://doi.org/10.1038/s41586-023-06406-9"
+Relational values (NC)	regard the significance of non-substitutable, meaningful connections between humans and nature, as well as among humans, mediated by nature	"https://doi.org/10.1002/pan3.70186
+https://doi.org/10.1038/s41586-023-06406-9"
